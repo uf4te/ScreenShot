@@ -22,11 +22,18 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.eurkon.com/ -o blog.eurkon.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.chenic.cn/ -o www.chenic.cn.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://meuicat.com/ -o meuicat.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.zhheo.com/ -o blog.zhheo.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.jyhao.cn/ -o blog.jyhao.cn.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.justlovesmile.top/ -o blog.justlovesmile.top.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://uuanqin.top/ -o uuanqin.top.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.leonus.cn/ -o blog.leonus.cn.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://whb1990.github.io/ -o whb1990.github.io.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://aeneag.xyz/ -o aeneag.xyz.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.4t.pw/ -o blog.4t.pw.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.imzjw.cn/ -o blog.imzjw.cn.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://zfe.space/ -o zfe.space.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.hclonely.com/ -o blog.hclonely.com.jpg
 
-
-
-
-        
 
 
         curl https://purge.jsdelivr.net/gh/uf4te/ScreenShot@gh-pages/*.*
