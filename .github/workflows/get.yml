@@ -44,7 +44,11 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://oneda1sy.gitee.io/ -o oneda1sy.gitee.io.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.aabyss.cn/ -o blog.aabyss.cn.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://wiki.wgpsec.org/ -o wiki.wgpsec.org.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://ctf-wiki.org/ -o ctf-wiki.org.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://bestwing.me/ -o bestwing.me.jpg
 
+        
+        # curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/ -o 
         curl https://purge.jsdelivr.net/gh/uf4te/ScreenShot@gh-pages/*.*
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
