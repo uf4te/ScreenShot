@@ -50,6 +50,7 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://paper.seebug.org/ -o paper.seebug.org.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://security.tencent.com/index.php/blog/ -o security.tencent.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://xlab.tencent.com/cn/ -o xlab.tencent.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.ctfiot.com/blog/ -o www.ctfiot.com.jpg
         
         # curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/ -o 
         curl https://purge.jsdelivr.net/gh/uf4te/ScreenShot@gh-pages/*.*
