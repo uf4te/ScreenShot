@@ -53,7 +53,7 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.ctfiot.com/blog/ -o www.ctfiot.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://lazzzaro.github.io -o lazzzaro.github.io.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://zikh26.github.io/ -o zikh26.github.io.jpg
-
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://bbs.kanxue.com/homepage-949925.htm -o homepage-949925.jpg
         
         # https://blog-1311372141.cos.ap-nanjing.myqcloud.com/images/202307011626843.jpg
         curl https://purge.jsdelivr.net/gh/uf4te/ScreenShot@gh-pages/*.*
