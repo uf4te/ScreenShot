@@ -55,7 +55,7 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://zikh26.github.io/ -o zikh26.github.io.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://bbs.kanxue.com/homepage-949925.htm -o homepage-949925.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.yuque.com/cyberangel/rg9gdm/ -o www.yuque.com.cyberangel.rg9gdm.jpg
-
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.cnblogs.com/trunk -o www.cnblogs.com.trunk.jpg
         
         curl https://purge.jsdelivr.net/gh/uf4te/ScreenShot@gh-pages/*.*
     - name: Deploy
