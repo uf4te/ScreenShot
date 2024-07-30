@@ -56,6 +56,11 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://bbs.kanxue.com/homepage-949925.htm -o homepage-949925.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.yuque.com/cyberangel/rg9gdm/ -o www.yuque.com.cyberangel.rg9gdm.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.cnblogs.com/trunk -o www.cnblogs.com.trunk.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.iotsec-zone.com/article/original?p=1&c=0&o= -o www.iotsec-zone.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.52pojie.cn/ -o www.52pojie.cn.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.kanxue.com/ -o www.kanxue.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.anquanke.com/ -o www.anquanke.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.freebuf.com/ -o www.freebuf.com.jpg
         
         
         curl https://purge.jsdelivr.net/gh/uf4te/ScreenShot@gh-pages/*.*
