@@ -61,6 +61,8 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.kanxue.com/ -o www.kanxue.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.anquanke.com/ -o www.anquanke.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.freebuf.com/ -o www.freebuf.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.henry-blog.life/henry-blog -o www.henry-blog.life.jpg
+        
         
         
         curl https://purge.jsdelivr.net/gh/uf4te/ScreenShot@gh-pages/*.*
